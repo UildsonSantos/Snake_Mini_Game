@@ -1,0 +1,1 @@
+Simply developing the classic snake game at DIO with Gabriela Pinheiro using HTML, CSS and JavaScript.
